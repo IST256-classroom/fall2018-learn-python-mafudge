@@ -22,6 +22,6 @@ while True:
                 shown += "_"
         print(shown)
         if trys == 0:
-            print("Gave Over!")
+            print("Game Over!")
             break
     print("You only have %d trys left" % trys)
