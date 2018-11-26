@@ -1,0 +1,309 @@
+,Course,Section,Class,Credits,Title,Instructor(s),Time,Day,Room(s)
+0,GET302,M001,37463,3.0,Global Financial Sys Arch,vcschoon,5:00pm - 7:45pm,Tu,Hinds Hall 011
+1,GET460,M001,41946,3.0,Global Technology Abroad,Laurie A Ferger,12:00am - 12:00am,,
+2,GET460,M002,41948,3.0,Global Technology Abroad,Paul Brian Gandel,12:00am - 12:00am,,
+3,GET602,M001,37464,3.0,Global Financial Sys Arch,vcschoon,5:00pm - 7:45pm,Tu,Hinds Hall 011
+4,GET660,M001,41947,3.0,Global Technology Abroad,Laurie A Ferger,12:00am - 12:00am,,
+5,GET660,M002,41949,3.0,Global Technology Abroad,Paul Brian Gandel,12:00am - 12:00am,,
+6,IDS401,M001,37545,3.0,What's the Big Idea?,Michael A D'Eredita,5:00pm - 7:50pm,Tu,FALK ROOM 201
+7,IDS402,M001,41538,3.0,Idea2Startup,John DuRoss Liddy,9:30am - 12:15pm,F,Hinds Hall 011
+8,IDS403,M001,37431,1.0,Startup Sandbox,John DuRoss Liddy,2:15pm - 5:05pm,F,Syracuse Technology Garden
+9,IDS460,M002,37571,3.0,Entretech - NYC,John DuRoss Liddy,12:00am - 12:00am,,
+10,IDS460,M003,37572,3.0,Spring Break in Silicon Valley,John DuRoss Liddy,12:00am - 12:00am,,
+11,IDS460,M004,37634,3.0,TechTrek Chicago,John DuRoss Liddy,12:00am - 12:00am,,
+12,IDS660,M002,37574,3.0,Entretech - NYC,John DuRoss Liddy,12:00am - 12:00am,,
+13,IDS660,M003,37575,3.0,Spring Break in Silicon Valley,John DuRoss Liddy,12:00am - 12:00am,,
+14,IDS660,M004,37635,3.0,TechTrek Chicago,,12:00am - 12:00am,,
+15,IST101,M001,37501,1.0,First-Year Forum,Julie Walas,12:45pm - 1:40pm,M,Hinds Hall 120
+16,IST195,M001,37392,3.0,Information Technologies,Jeff Rubin,9:30am - 10:25am,MW,Huntington Beard Crouse Giff
+17,IST195,M003,37443,3.0,LAB: Information Technologies,Jeff Rubin,9:30am - 10:25am,F,Hinds Hall 010
+18,IST195,M004,37444,3.0,LAB: Information Technologies,Jeff Rubin,10:35am - 11:30am,F,Hinds Hall 010
+19,IST195,M005,37445,3.0,LAB: Information Technologies,Jeff Rubin,11:40am - 12:35pm,F,Hinds Hall 010
+20,IST195,M006,37446,3.0,LAB: Information Technologies,Jeff Rubin,12:45pm - 1:40pm,F,Hinds Hall 010
+21,IST195,M007,37447,3.0,LAB: Information Technologies,Jeff Rubin,1:50pm - 2:45pm,F,Hinds Hall 010
+22,IST195,M008,37452,3.0,LAB: Information Technologies,Jeff Rubin,2:55pm - 3:50pm,F,Hinds Hall 010
+23,IST195,M002,37488,3.0,LAB: Information Technologies,Jeff Rubin,8:25am - 9:20am,F,Hinds Hall 010
+24,IST233,M001,37411,3.0,Intro to Computer Networking,S Bruce Boardman,12:45pm - 1:40pm,MW,Hall of Languages 207
+25,IST233,M008,37437,3.0,Intro to Computer Networking,Jeffrey T Girard,5:00pm - 6:20pm,TuTh,Hinds Hall 010
+26,IST233,M003,37448,3.0,LAB: Intro to Computer Networking,S Bruce Boardman,10:35am - 11:30am,F,Hinds Hall 027
+27,IST233,M004,37449,3.0,LAB: Intro to Computer Networking,S Bruce Boardman,11:40am - 12:35pm,F,Hinds Hall 027
+28,IST233,M005,37450,3.0,LAB: Intro to Computer Networking,S Bruce Boardman,12:45pm - 1:40pm,F,Hinds Hall 027
+29,IST233,M006,37451,3.0,LAB: Intro to Computer Networking,S Bruce Boardman,1:50pm - 2:45pm,F,Hinds Hall 027
+30,IST256,M001,37499,3.0,Appl.Prog.For Information Syst,Michael Fudge,3:45pm - 5:05pm,M,School of Management 007
+31,IST256,M003,37537,3.0,Appl.Prog.For Information Syst,Angela Usha Ramnarine-Rieks,3:45pm - 5:05pm,W,CH101
+32,IST256,M004,37538,3.0,Appl.Prog.For Information Syst,Angela Usha Ramnarine-Rieks,12:30pm - 1:50pm,Th,LINK200
+33,IST256,M005,37539,3.0,Appl.Prog.For Information Syst,Wade Stringer,5:00pm - 6:20pm,Th,Hinds Hall 117
+34,IST256,M006,37540,3.0,Appl.Prog.For Information Syst,Wade Stringer,9:30am - 10:50am,W,Hinds Hall 011
+35,IST256,M007,37546,3.0,Appl.Prog.For Information Syst,Nick Lyga,11:00am - 12:20pm,Th,Hinds Hall 111
+36,IST256,M008,37583,3.0,Appl.Prog.For Information Syst,Avinash Kadaji,8:00am - 9:20am,W,Hinds Hall 011
+37,IST256,M009,37664,3.0,Appl.Prog.For Information Syst,Laurie A Ferger,3:45pm - 5:05pm,W,Hinds Hall 018
+38,IST256,M002,42537,3.0,Appl.Prog.For Information Syst,Deborah L Nosky,12:45pm - 2:05pm,W,Hinds Hall 011
+39,IST263,M001,37413,3.0,Intro to Front-End Web Dev,Christian A Kirkegaard,9:30am - 10:50am,TuTh,Hinds Hall 021
+40,IST263,M002,37440,3.0,Intro to Front-End Web Dev,Christian A Kirkegaard,8:00am - 9:20am,TuTh,Hinds Hall 021
+41,IST263,M005,37486,3.0,Intro to Front-End Web Dev,Avinash Kadaji,11:00am - 12:20pm,TuTh,Hinds Hall 117
+42,IST300,M002,41802,3.0,Information Security Policy,James Enwright,6:45pm - 8:05pm,MW,Hinds Hall 013
+43,IST300,M001,42515,3.0,Enterprise Data Analysis,Michael A Leonardo,5:15pm - 8:05pm,M,Hinds Hall 010
+44,IST322,M001,41445,3.0,Dig Strat & Analytics for Web,Michael Clarke,3:30pm - 4:50pm,TuTh,Hinds Hall 011
+45,IST323,M001,37419,3.0,Intro to Information Security,Christopher Croad,2:15pm - 5:05pm,W,Hinds Hall 027  Hinds Hall 117
+46,IST335,M002,37393,3.0,Intro/Info Based Organizations,Blythe Scherrer,8:00am - 9:20am,MW,Hinds Hall 117
+47,IST335,M001,37398,3.0,Intro/Info Based Organizations,Jeffrey Fouts,2:00pm - 3:20pm,TuTh,Hinds Hall 011
+48,IST335,M003,37416,3.0,Intro/Info Based Organizations,Alexander Corsello,3:45pm - 5:05pm,MW,Hinds Hall 111
+49,IST335,M005,37469,3.0,Intro/Info Based Organizations,Alexander Corsello,2:15pm - 3:35pm,MW,Hinds Hall 111
+50,IST336,M001,41506,3.0,Leading Issues in Info Securit,Joon S. Park,3:45pm - 5:05pm,MW,Hinds Hall 117
+51,IST337,M001,41702,1.0,IM&T Support Practicum,Jeffrey Fouts,2:15pm - 5:00pm,F,Hinds Hall 117
+52,IST343,M001,41478,3.0,Data in Society,Jennifer Stromer-Galley,12:45pm - 2:05pm,MW,Hinds Hall 018
+53,IST343,M002,42773,3.0,Data in Society,Jennifer Stromer-Galley,9:30am - 10:50am,MW,Hinds Hall 018
+54,IST344,M002,37390,3.0,Info Reporting & Presentation,Peggy M Takach,12:45pm - 2:05pm,MW,Hinds Hall 111
+55,IST344,M004,37403,3.0,Info Reporting & Presentation,Bruce Kingma,9:30am - 10:50am,TuTh,Hinds Hall 018
+56,IST344,M005,37407,3.0,Info Reporting & Presentation,Christopher Perrello,12:30pm - 1:50pm,TuTh,Hinds Hall 011
+57,IST344,M006,37410,3.0,Info Reporting & Presentation,A Randall Wenner,5:15pm - 8:05pm,M,Newhouse 3 250
+58,IST344,M009,37456,3.0,Info Reporting & Presentation,Eric William Young,3:30pm - 4:50pm,TuTh,Hall of Languages 111
+59,IST344,M010,37473,3.0,Info Reporting & Presentation,Bruce Kingma,11:00am - 12:20pm,TuTh,Hinds Hall 018
+60,IST345,M001,37404,3.0,Managing Info Systems Projects,Robert E Campagna,5:15pm - 8:00pm,W,Hinds Hall 021
+61,IST345,M002,37405,3.0,Managing Info Systems Projects,Daniel Cohen,9:30am - 10:50am,TuTh,Hinds Hall 111
+62,IST345,M003,37434,3.0,Managing Info Systems Projects,Mark Andrew Borte,5:15pm - 8:05pm,Tu,Hinds Hall 111
+63,IST346,M001,37385,3.0,Info Tech Mgmt&Administration,Ryan Elstad,12:30pm - 1:50pm,TuTh,Hinds Hall 010
+64,IST346,M002,37401,3.0,Info Tech Mgmt&Administration,Timothy A Jorgensen,12:30pm - 1:50pm,TuTh,Hinds Hall 013
+65,IST346,M003,37661,3.0,Info Tech Mgmt&Administration,Lauren J Hardee-Chase,3:45pm - 5:05pm,MW,Hinds Hall 013
+66,IST346,M004,42874,3.0,Info Tech Mgmt&Administration,Lauren J Hardee-Chase,12:45pm - 2:05pm,MW,Hinds Hall 027
+67,IST352,M001,37388,3.0,Info Analysis of Org. Systems,Alexander Corsello,11:00am - 12:20pm,TuTh,Hinds Hall 021
+68,IST352,M003,37424,3.0,Info Analysis of Org. Systems,P Douglas Taber,5:15pm - 6:30pm,MW,Hinds Hall 111
+69,IST352,M004,37453,3.0,Info Analysis of Org. Systems,P Douglas Taber,12:45pm - 2:05pm,MW,Newhouse 2 345
+70,IST352,M005,37475,3.0,Info Analysis of Org. Systems,P Douglas Taber,8:00am - 9:20am,MW,Hinds Hall 111
+71,IST352,M006,37476,3.0,Info Analysis of Org. Systems,Alexander Corsello,8:00am - 9:20am,TuTh,Hinds Hall 117
+72,IST359,M001,37417,3.0,Intro to Data Base Mgmt Systs,Laurie A Ferger,2:15pm - 3:35pm,MW,Hinds Hall 010
+73,IST359,M003,37421,3.0,Intro to Data Base Mgmt Systs,Blythe Scherrer,8:00am - 9:20am,TuTh,Hinds Hall 010
+74,IST359,M004,37454,3.0,Intro to Data Base Mgmt Systs,Chad Aaron Harper,2:00pm - 3:20pm,TuTh,Hinds Hall 027  Hinds Hall 111
+75,IST359,M005,37477,3.0,Intro to Data Base Mgmt Systs,Chad Aaron Harper,3:30pm - 4:50pm,TuTh,Hinds Hall 013
+76,IST359,M006,37478,3.0,Intro to Data Base Mgmt Systs,Laurie A Ferger,12:45pm - 2:05pm,MW,Hinds Hall 010
+77,IST363,M001,37541,3.0,Advanced Front End Web Design,Jonathan Backus,3:30pm - 4:50pm,TuTh,Sims Hall 237
+78,IST363,M002,41691,3.0,Advanced Front End Web Design,Jonathan Backus,5:00pm - 6:20pm,TuTh,Marshall Square Mall 208A
+79,IST387,M001,37578,3.0,Intro to Applied Data Science,Jeffrey M. Stanton,9:30am - 10:50am,Th,Life Science Building 001
+80,IST387,M002,37633,3.0,LAB: Intro to Applied Data Science,Deborah L Nosky,12:30pm - 1:50pm,Th,Hinds Hall 021
+81,IST387,M003,41743,3.0,LAB: Intro to Applied Data Science,Stephen Wallace,3:30pm - 4:50pm,Th,Hinds Hall 018
+82,IST400,M001,37551,3.0,Intro to Cloud Technologies,Radhika Garg,2:15pm - 5:00pm,M,Hinds Hall 018
+83,IST400,M002,42597,3.0,Block Chain Mgmt.,Phil Evangelista,5:15pm - 8:05pm,W,Hinds Hall 010
+84,IST407,M001,42450,3.0,Data Mining,Stephen Wallace,12:45pm - 3:35pm,W,Hinds Hall 013
+85,IST414,M001,41711,3.0,Data Driven Inquiry,Ingrid Erickson,11:00am - 12:20pm,TuTh,Hinds Hall 011
+86,IST421,M001,41712,3.0,Information Visualization,Jeff Hemsley,9:30am - 12:15pm,Tu,Hinds Hall 010
+87,IST421,M002,42196,3.0,Information Visualization,Jeff Hemsley,9:30am - 12:15pm,W,Hinds Hall 010
+88,IST425,M001,37400,3.0,Enterprise Risk Management,Ann M Perkins,5:15pm - 6:35pm,MW,Slocum 104
+89,IST425,M002,37516,3.0,Enterprise Risk Management,James Enwright,5:00pm - 7:50pm,Tu,Sims Hall 241
+90,IST449,M001,37414,3.0,Human Comp. Interaction,Bryan Semaan,12:30pm - 1:50pm,TuTh,Hinds Hall 111
+91,IST452,M001,37409,3.0,Advanced Computer Networking,Jeffrey T Girard,6:30pm - 7:50pm,TuTh,
+92,IST455,M001,37535,3.0,Enterprise IT Consultation,Michelle L. Kaarst-Brown,2:00pm - 4:45pm,Th,Hinds Hall 111
+93,IST456,M001,42883,3.0,Info Policy & Decision Making,Garland McCoy,5:00pm - 7:50pm,Th,Hinds Hall 111
+94,IST462,M001,37632,3.0,Scripting for Data Analysis,"David J. Myers, Ph.D.",5:15pm - 6:35pm,MW,Hinds Hall 013
+95,IST466,M002,37394,3.0,Prof Issues/Info Mgmt & Tech,Bruce Kingma,3:30pm - 4:50pm,TuTh,Hinds Hall 021
+96,IST466,M001,37399,3.0,Prof Issues/Info Mgmt & Tech,Marcene S. Sonneborn,8:00am - 9:20am,MW,Hinds Hall 021
+97,IST466,M003,37439,3.0,Prof Issues/Info Mgmt & Tech,Marcene S. Sonneborn,12:45pm - 2:05pm,MW,Hinds Hall 021
+98,IST466,M004,41692,3.0,Prof Issues/Info Mgmt & Tech,Bruce Kingma,2:00pm - 3:20pm,TuTh,Hinds Hall 018
+99,IST469,M001,37455,3.0,Advanced Database Management,Wade Stringer,2:15pm - 3:35pm,MW,Hinds Hall 027  Hinds Hall 117
+100,IST471,M001,37386,1.0,Internship in Info Mgmt & Tech,Susan Monica Bonzi,1:00am - 1:00am,,
+101,IST472,M001,37576,1.0,Coop Educ in Info Mgmt & Tech,Susan Monica Bonzi,12:00am - 12:00am,,
+102,IST486,M002,37534,3.0,Social Media in the Organiz.,Patricia Rossini,12:45pm - 2:05pm,MW,Hinds Hall 117
+103,IST486,U800,37543,3.0,Social Media in the Organiz.,Maren Guse Powell,12:00am - 12:00am,,Online
+104,IST486,U801,37544,3.0,Social Media in the Organiz.,Maren Guse Powell,12:00am - 12:00am,,Online
+105,IST486,M001,42775,3.0,Social Media in the Organiz.,,5:00pm - 6:20pm,TuTh,CH101
+106,IST499,M001,37524,1.0,Honors Capstone Project,,12:00am - 12:00am,,
+107,IST511,M401,37527,3.0,Intro to Library & Info Prof,Meghan Bremiller,12:00am - 8:30pm,Tu,Online  Online
+108,IST511,M402,37529,3.0,Intro to Library & Info Prof,DeAnna R Miller,7:00pm - 8:30pm,W,Online
+109,IST511,M400,37557,3.0,Intro to Library & Info Prof,Alison J Johnson,12:00am - 10:30pm,M,Online  Online
+110,IST511,M403,37584,3.0,Intro to Library & Info Prof,Meghan Bremiller,12:00am - 8:30pm,Tu,Online  Online
+111,IST511,M404,37585,3.0,Intro to Library & Info Prof,DeAnna R Miller,12:00am - 8:30pm,W,Online  Online
+112,IST511,M406,37614,3.0,Intro to Library & Info Prof,Alison J Johnson,12:00am - 10:30pm,M,Online  Online
+113,IST523,M001,37422,3.0,Graphic Design for the Web,Jeffrey Alan Passetti,5:00pm - 7:50pm,Th,Hinds Hall 117
+114,IST523,M002,37474,3.0,Graphic Design for the Web,Jeffrey Alan Passetti,5:00pm - 7:50pm,Tu,Hinds Hall 117
+115,IST564,M400,42296,3.0,Lib Svces to Students w/Disab,William N. Myhill,12:00am - 8:30pm,M,Online  Online
+116,IST564,M401,42511,3.0,Lib Svces to Students w/Disab,William N. Myhill,12:00am - 8:30pm,M,Online  Online
+117,IST600,M013,37423,3.0,Startup Sandbox,John DuRoss Liddy,10:00am - 12:50pm,F,Syracuse Technology Garden
+118,IST600,M800,37489,1.0,IT Auditing,Thomas J Wood,12:00am - 12:00am,,Online
+119,IST600,M002,37567,3.0,Adv Top in User Exp. UX Design,Ping Zhang,12:45pm - 3:35pm,M,Hinds Hall 011
+120,IST600,M004,37582,3.0,Intro to Cloud Technologies,Radhika Garg,2:15pm - 5:00pm,M,Hinds Hall 018
+121,IST600,M801,37629,3.0,Info Mgmt for Critical Infra,Leslie A Corbo,12:00am - 12:00am,,Online
+122,IST600,M005,41477,3.0,History of Libr and Archives,,9:30am - 12:15pm,M,BIRD LIBRARY LEMKE ROOM 606B
+123,IST600,M803,42268,3.0,Cultural Competence for Inform,Beth Patin,12:00am - 12:00am,,Online
+124,IST600,M003,42473,3.0,Digital Humanities for Librari,,5:00pm - 7:50pm,Th,Bird Library 458A
+125,IST600,M001,42598,3.0,Block Chain Management,Lee W McKnight,2:15pm - 5:05pm,M,Hinds Hall 021
+126,IST605,M402,37530,3.0,Reference& Info Literacy Svces,Anne E Zald,12:00am - 10:30pm,Th,Online  Online
+127,IST605,M400,37558,3.0,Reference& Info Literacy Svces,Mary C MacDonald,12:00am - 8:30pm,Th,Online  Online
+128,IST605,M401,37559,3.0,Reference& Info Literacy Svces,,12:00am - 10:30pm,Tu,Online  Online
+129,IST605,M403,37587,3.0,Reference& Info Literacy Svces,Rebecca K. Miller,12:00am - 8:30pm,W,Online  Online
+130,IST612,M401,42298,3.0,Youth Svce inLibrary Info Ctrs,Kori M Gerbig,12:00am - 8:30pm,W,Online  Online
+131,IST613,M002,37432,3.0,"Library Plan., Mrktng, Assess",Jennifer L Bort,5:00pm - 7:45pm,Tu,LYMAN HALL ROOM 228
+132,IST613,M400,37554,3.0,"Library Plan., Mrktng, Assess",Melissa Bowles-Terry,12:00am - 8:30pm,Tu,Online  Online
+133,IST613,M401,37588,3.0,"Library Plan., Mrktng, Assess",Jennifer Erin Nutefall,12:00am - 10:30pm,W,Online  Online
+134,IST613,M403,37619,3.0,"Library Plan., Mrktng, Assess",Jennifer Erin Nutefall,12:00am - 10:30pm,Tu,Online  Online
+135,IST613,M404,37620,3.0,"Library Plan., Mrktng, Assess",Melissa Bowles-Terry,12:00am - 8:30pm,Tu,Online  Online
+136,IST613,M405,37621,3.0,"Library Plan., Mrktng, Assess",John David Stawarz,12:00am - 10:30pm,M,Online  Online
+137,IST614,M001,37472,3.0,Mngmt Prncpls for Info Profess,James Stewart,5:15pm - 8:05pm,M,Hinds Hall 021
+138,IST614,M400,37518,3.0,Mngmt Prncpls for Info Profess,Dr. John P. Stinnett,12:00am - 8:30pm,Tu,Online  Online
+139,IST614,M401,37590,3.0,Mngmt Prncpls for Info Profess,Dr. John P. Stinnett,12:00am - 10:30pm,Tu,Online  Online
+140,IST614,M402,37591,3.0,Mngmt Prncpls for Info Profess,Paul Brian Gandel,12:00am - 10:30pm,Tu,Online  Online
+141,IST614,M403,37622,3.0,Mngmt Prncpls for Info Profess,Paul Brian Gandel,12:00am - 10:30pm,W,Online  Online
+142,IST614,M404,37623,3.0,Mngmt Prncpls for Info Profess,Dr. John P. Stinnett,12:00am - 8:30pm,Tu,Online  Online
+143,IST614,M405,37624,3.0,Mngmt Prncpls for Info Profess,Dr. John P. Stinnett,12:00am - 10:30pm,Tu,Online  Online
+144,IST614,M002,42329,3.0,Mngmt Prncpls for Info Profess,Jill Hurst-Wahl,9:30am - 12:15pm,M,Hinds Hall 117
+145,IST614,M406,42610,3.0,Mngmt Prncpls for Info Profess,,12:00am - 8:30pm,W,Online  Online
+146,IST615,M001,37628,3.0,Cloud Management,Radhika Garg,9:30am - 12:15pm,M,Hinds Hall 021
+147,IST616,M400,37555,3.0,Info Rsces: Organiz & Access,Jian Qin,12:00am - 10:30pm,W,Online  Online
+148,IST616,M401,37592,3.0,Info Rsces: Organiz & Access,Arden Kirkland,12:00am - 8:30pm,Th,Online  Online
+149,IST616,M402,37593,3.0,Info Rsces: Organiz & Access,Arden Kirkland,12:00am - 10:30pm,Tu,Online  Online
+150,IST616,M403,37625,3.0,Info Rsces: Organiz & Access,Arden Kirkland,12:00am - 8:30pm,Tu,Online  Online
+151,IST616,M404,37626,3.0,Info Rsces: Organiz & Access,Jeanette Norris,12:00am - 10:30pm,Tu,Online  Online
+152,IST616,M405,37627,3.0,Info Rsces: Organiz & Access,Jian Qin,12:00am - 10:30pm,W,Online  Online
+153,IST618,M003,37425,3.0,Information Policy,Caroline Haythornthwaite,5:00pm - 7:50pm,Th,Hinds Hall 021
+154,IST618,M001,37460,3.0,Information Policy,Angela Usha Ramnarine-Rieks,2:00pm - 4:45pm,Th,Hinds Hall 117
+155,IST618,M400,37594,3.0,Information Policy,Ian P MacInnes,12:00am - 8:30pm,M,Online  Online
+156,IST618,M401,37595,3.0,Information Policy,Angela Usha Ramnarine-Rieks,12:00am - 10:30pm,M,Online  Online
+157,IST618,M402,37596,3.0,Information Policy,Emily Drabinski,12:00am - 8:30pm,Th,Online  Online
+158,IST618,M404,37636,3.0,Information Policy,David A Sidi,12:00am - 8:30pm,M,Online  Online
+159,IST618,M405,37637,3.0,Information Policy,Angela Usha Ramnarine-Rieks,12:00am - 10:30pm,M,Online  Online
+160,IST618,M406,37639,3.0,Information Policy,Emily Drabinski,12:00am - 8:30pm,Th,Online  Online
+161,IST618,M407,37640,3.0,Information Policy,Raed M. Sharif,12:00am - 10:30pm,Th,Online  Online
+162,IST618,M408,37641,3.0,Information Policy,Raed M. Sharif,12:00am - 10:30pm,Th,Online  Online
+163,IST618,M002,42794,3.0,Information Policy,Angela Usha Ramnarine-Rieks,5:00pm - 7:50pm,Tu,Hinds Hall 018
+164,IST619,M800,37533,3.0,Economics for Info Managers,Ian P MacInnes,12:00am - 12:00am,,Online
+165,IST621,M001,37480,3.0,Info Management and Technology,Ingrid Erickson,5:15pm - 8:00pm,W,Hinds Hall 011
+166,IST621,M400,37553,3.0,Info Management and Technology,Michael Larche,12:00am - 10:30pm,Tu,Online  Online
+167,IST621,M401,37560,3.0,Info Management and Technology,Michael Larche,12:00am - 10:30pm,Tu,Online  Online
+168,IST623,M001,37462,3.0,Intro to Information Security,Timothy J Van Waes,5:00pm - 7:50pm,Tu,Hinds Hall 027
+169,IST623,M400,37522,3.0,Intro to Information Security,Joon S. Park,12:00am - 8:30pm,W,Online  Online
+170,IST623,M401,42611,3.0,Intro to Information Security,Joon S. Park,12:00am - 8:30pm,W,Online  Online
+171,IST624,M001,37420,3.0,Preserv Lib/Archival Collctns,David J Stokoe,5:15pm - 8:00pm,M,Hinds Hall 011
+172,IST625,M002,37495,3.0,Enterprise Risk Management,Frank Jr Marullo,5:15pm - 8:05pm,W,Hinds Hall 117
+173,IST625,M400,37566,3.0,Enterprise Risk Management,Michael Larche,12:00am - 8:30pm,M,Online  Online
+174,IST625,M001,37569,3.0,Enterprise Risk Management,Michael Larche,5:15pm - 8:05pm,W,Bowne Hall 105
+175,IST625,M401,37598,3.0,Enterprise Risk Management,Dale Thompson,12:00am - 7:30pm,W,Online  Online
+176,IST625,M402,42612,3.0,Enterprise Risk Management,Michael Larche,12:00am - 8:30pm,M,Online  Online
+177,IST628,M800,37510,3.0,Org/Mgmt of Arch Collections,Cara A. Howe,12:00am - 12:00am,,Online
+178,IST635,M400,37564,3.0,Collection Dev & Access,Jill Hurst-Wahl,12:00am - 8:30pm,Th,Online  Online
+179,IST635,M401,37674,3.0,Collection Dev & Access,Katrina Maust,12:00am - 8:30pm,Tu,Online  Online
+180,IST636,M400,42434,3.0,Leading Issues/Info Security,Joon S. Park,12:00am - 10:30pm,W,Online  Online
+181,IST643,M001,42595,3.0,Ent Serv and Virtualized Sys,Michael Fudge,9:30am - 12:15pm,W,Hinds Hall 111
+182,IST645,M001,37406,3.0,Managing Info Systems Projects,Arthur P. Thomas,5:00pm - 7:50pm,Tu,Hinds Hall 021
+183,IST645,M003,37482,3.0,Managing Info Systems Projects,Mark Andrew Borte,5:15pm - 8:05pm,M,Hinds Hall 018
+184,IST645,M400,37520,3.0,Managing Info Systems Projects,Robert A Emborski,12:00am - 8:30pm,Th,Online  Online
+185,IST645,M401,42614,3.0,Managing Info Systems Projects,Robert A Emborski,12:00am - 8:30pm,Th,Online  Online
+186,IST646,M800,42265,3.0,Storytelling Info Professional,Marilyn Plavocos Arnone,12:00am - 12:00am,,Online
+187,IST649,M001,37415,3.0,Human Interaction W/Computers,Bryan Semaan,9:30am - 12:15pm,W,Hinds Hall 021
+188,IST652,M001,37668,3.0,Scripting for Data Analysis,"David J. Myers, Ph.D.",5:15pm - 6:35pm,MW,Hinds Hall 013
+189,IST652,M400,42484,3.0,Scripting for Data Analysis,Deborah Landowski,12:00am - 8:30pm,W,Online  Online
+190,IST652,M401,42485,3.0,Scripting for Data Analysis,Deborah Landowski,12:00am - 8:30pm,Tu,Online  Online
+191,IST652,M403,42615,3.0,Scripting for Data Analysis,Deborah Landowski,12:00am - 8:30pm,W,Online  Online
+192,IST652,M404,42616,3.0,Scripting for Data Analysis,Deborah Landowski,12:00am - 8:30pm,Tu,Online  Online
+193,IST652,M002,42734,3.0,Scripting for Data Analysis,Ben Nichols,5:15pm - 8:05pm,M,Hinds Hall 027
+194,IST654,M002,37412,3.0,Information Systems Analysis,James Stewart,5:00pm - 7:50pm,Th,Hinds Hall 018
+195,IST654,M001,37442,3.0,Information Systems Analysis,Ping Zhang,2:15pm - 5:05pm,W,Hinds Hall 011
+196,IST654,M400,37521,3.0,Information Systems Analysis,Kevin Crowston,12:00am - 8:30pm,Tu,Online  Online
+197,IST654,M401,37528,3.0,Information Systems Analysis,Gregory Zink,12:00am - 8:30pm,M,Online  Online
+198,IST655,M001,37542,3.0,Enterprise IT Consultation,Michelle L. Kaarst-Brown,2:00pm - 4:45pm,Th,Hinds Hall 111
+199,IST659,M003,37457,3.0,Data Admin Concepts & Db Mgmt,Yang Wang,9:30am - 12:15pm,M,Hinds Hall 013
+200,IST659,M004,37485,3.0,Data Admin Concepts & Db Mgmt,Hernando A Hoyos,9:30am - 12:15pm,W,Hinds Hall 027
+201,IST659,M002,37490,3.0,Data Admin Concepts & Db Mgmt,Yang Wang,12:45pm - 3:30pm,M,Hinds Hall 013
+202,IST659,M400,37519,3.0,Data Admin Concepts & Db Mgmt,Chad Aaron Harper,12:00am - 8:30pm,Tu,Online  Online
+203,IST659,M401,37602,3.0,Data Admin Concepts & Db Mgmt,Chad Aaron Harper,12:00am - 10:30pm,Tu,Online  Online
+204,IST659,M402,37603,3.0,Data Admin Concepts & Db Mgmt,Chad Aaron Harper,12:00am - 8:30pm,Th,Online  Online
+205,IST659,M403,37604,3.0,Data Admin Concepts & Db Mgmt,,12:00am - 3:30pm,Su,Online  Online
+206,IST659,M404,37605,3.0,Data Admin Concepts & Db Mgmt,,12:00am - 4:30pm,Sa,Online  Online
+207,IST659,M406,37646,3.0,Data Admin Concepts & Db Mgmt,Dr. Gregory Block,12:00am - 5:30pm,Su,Online  Online
+208,IST659,M407,37647,3.0,Data Admin Concepts & Db Mgmt,Chad Aaron Harper,12:00am - 8:30pm,Tu,Online  Online
+209,IST659,M408,37648,3.0,Data Admin Concepts & Db Mgmt,Chad Aaron Harper,12:00am - 10:30pm,Tu,Online  Online
+210,IST659,M409,37649,3.0,Data Admin Concepts & Db Mgmt,Chad Aaron Harper,12:00am - 8:30pm,Th,Online  Online
+211,IST659,M005,42423,3.0,Data Admin Concepts & Db Mgmt,Hernando A Hoyos,5:15pm - 8:05pm,W,Hinds Hall 027
+212,IST662,M400,37556,3.0,Instr Strgt & Tech/Info Profs,Megan Oakleaf,12:00am - 10:30pm,Tu,Online  Online
+213,IST663,M400,37563,3.0,Motivating 21st Cent. Learning,Margo Gustina,12:00am - 8:30pm,M,Online  Online
+214,IST664,M001,37494,3.0,Natural Language Processing,Lu Xiao,2:15pm - 5:05pm,M,Science & Tech Ctr 1-231
+215,IST664,M002,37669,3.0,Natural Language Processing,Lu Xiao,9:30am - 12:15pm,M,Hinds Hall 010
+216,IST664,M003,42449,3.0,Natural Language Processing,Stephen Wallace,9:30am - 12:15pm,Th,Hinds Hall 010
+217,IST664,M400,42486,3.0,Natural Language Processing,Norma Palomino,12:00am - 8:30pm,Tu,Online  Online
+218,IST664,M402,42628,3.0,Natural Language Processing,Norma Palomino,12:00am - 8:30pm,Tu,Online  Online
+219,IST664,M401,42675,3.0,Natural Language Processing,Nancy McCracken,12:00am - 8:30pm,M,Online  Online
+220,IST664,M403,42740,3.0,Natural Language Processing,Norma Palomino,12:00am - 8:30pm,Th,Online  Online
+221,IST668,M400,42297,3.0,Litrcy Through Schl Libraries,Sara Kelly Johns,12:00am - 8:30pm,W,Online  Online
+222,IST671,M400,42629,3.0,Research Methods in Info. St.,Rachel Ivy Clarke,12:00am - 8:30pm,Tu,Online  Online
+223,IST671,M401,42670,3.0,Research Methods in Info. St.,Caroline Haythornthwaite,12:00am - 8:30pm,Tu,Online  Online
+224,IST678,M001,42602,3.0,Comm for Info Professionals,Laura D. Lisnyczyj,11:00am - 12:20pm,MW,Hinds Hall 011
+225,IST681,M800,37438,3.0,Metadata,Brian Dobreski,12:00am - 12:00am,,Online
+226,IST687,M001,37465,3.0,Introduction to Data Science,Jeffrey M. Stanton,9:30am - 10:50am,Th,Life Science Building 001
+227,IST687,M004,37491,3.0,LAB: Introduction to Data Science,Erik Scott Anderson,2:00pm - 3:20pm,Th,Hinds Hall 021
+228,IST687,M006,37492,3.0,LAB: Introduction to Data Science,Erik Scott Anderson,3:30pm - 4:50pm,Th,Huntington Hall 107
+229,IST687,M007,37493,3.0,LAB: Introduction to Data Science,Erik Scott Anderson,12:30pm - 1:50pm,Th,Hinds Hall 120
+230,IST687,M400,37523,3.0,Introduction to Data Science,Gary E Krudys,12:00am - 8:30pm,W,Online  Online
+231,IST687,M002,37525,3.0,LAB: Introduction to Data Science,Gary E Krudys,5:15pm - 6:35pm,M,Hinds Hall 117
+232,IST687,M003,37526,3.0,LAB: Introduction to Data Science,Gary E Krudys,6:45pm - 8:05pm,M,Hinds Hall 117
+233,IST687,M401,37606,3.0,Introduction to Data Science,John W Santerre,12:00am - 10:30pm,Tu,Online  Online
+234,IST687,M402,37607,3.0,Introduction to Data Science,John W Santerre,12:00am - 8:30pm,Tu,Online  Online
+235,IST687,M403,37608,3.0,Introduction to Data Science,Abdullah Mamdouh Awaysheh,12:00am - 8:30pm,W,Online  Online
+236,IST687,M404,37609,3.0,Introduction to Data Science,Abdullah Mamdouh Awaysheh,12:00am - 10:30pm,W,Online  Online
+237,IST687,M405,37610,3.0,Introduction to Data Science,Mohammed A Syed,12:00am - 10:30pm,Th,Online  Online
+238,IST687,M406,37652,3.0,Introduction to Data Science,Corey Jackson Jr,12:00am - 10:30pm,W,Online  Online
+239,IST687,M407,37653,3.0,Introduction to Data Science,Jeffrey Saltz,12:00am - 8:30pm,Tu,Online  Online
+240,IST687,M408,37654,3.0,Introduction to Data Science,John W Santerre,12:00am - 8:30pm,Tu,Online  Online
+241,IST687,M409,37655,3.0,Introduction to Data Science,John W Santerre,12:00am - 10:30pm,Tu,Online  Online
+242,IST687,M410,37656,3.0,Introduction to Data Science,Abdullah Mamdouh Awaysheh,12:00am - 8:30pm,W,Online  Online
+243,IST687,M411,37657,3.0,Introduction to Data Science,Abdullah Mamdouh Awaysheh,12:00am - 10:30pm,W,Online  Online
+244,IST687,M412,37682,3.0,Introduction to Data Science,Gary E Krudys,12:00am - 10:30pm,M,Online  Online
+245,IST687,M005,42425,3.0,LAB: Introduction to Data Science,Christopher N Dunham,3:30pm - 4:50pm,Th,Hinds Hall 120
+246,IST687,M413,42630,3.0,Introduction to Data Science,Corey Jackson Jr,12:00am - 10:30pm,W,Online  Online
+247,IST687,M414,42632,3.0,Introduction to Data Science,Tin T Hoang,12:00am - 8:30pm,M,Online  Online
+248,IST687,M415,42633,3.0,Introduction to Data Science,Mohammed A Syed,12:00am - 10:30pm,Th,Online  Online
+249,IST700,M800,37500,3.0,Leading IT: Transforming the E,Scott A Bernard,12:00am - 12:00am,,Online
+250,IST700,M801,37662,3.0,Adv.Proj:Portfolio & Prog Mgmt,Tom Uva,12:00am - 12:00am,,Online
+251,IST704,M001,37631,3.0,Applied Info Security,Aaron A. Miller,5:15pm - 8:05pm,W,Hinds Hall 018
+252,IST704,M400,37658,3.0,Applied Info Security,Joon S. Park,12:00am - 10:30pm,W,Online  Online
+253,IST707,M001,41841,3.0,Data Analytics,Stephen Wallace,12:45pm - 3:35pm,W,Hinds Hall 013
+254,IST707,M002,42305,3.0,Data Analytics,Frank Jr Marullo,5:15pm - 8:05pm,Tu,Hinds Hall 013
+255,IST707,M400,42438,3.0,Data Analytics,ProfGates,12:00am - 2:30pm,Su,Online  Online
+256,IST707,M401,42439,3.0,Data Analytics,ProfGates,12:00am - 4:30pm,Su,Online  Online
+257,IST707,M402,42440,3.0,Data Analytics,Ying Lin,12:00am - 10:30pm,Su,Online  Online
+258,IST707,M403,42523,3.0,Data Analytics,,12:00am - 4:00pm,Su,Online  Online
+259,IST707,M404,42634,3.0,Data Analytics,ProfGates,12:00am - 2:30pm,Su,Online  Online
+260,IST707,M405,42635,3.0,Data Analytics,ProfGates,12:00am - 4:30pm,Su,Online  Online
+261,IST707,M406,42636,3.0,Data Analytics,Ying Lin,12:00am - 10:30pm,Su,Online  Online
+262,IST707,M407,42637,3.0,Data Analytics,,12:00am - 4:00pm,Su,Online  Online
+263,IST718,M002,37505,3.0,Big Data Analytics,Daniel E. Acuna,2:00pm - 4:50pm,Tu,Hinds Hall 117
+264,IST718,M003,37506,3.0,Big Data Analytics,Daniel E. Acuna,9:30am - 12:15pm,W,Hinds Hall 117
+265,IST718,M400,37611,3.0,Big Data Analytics,Jonathan M Fox,12:00am - 10:30pm,W,Online  Online
+266,IST718,M401,37677,3.0,Big Data Analytics,Jonathan M Fox,12:00am - 10:30pm,Tu,Online  Online
+267,IST718,M402,42385,3.0,Big Data Analytics,Jillian K Lando,12:00am - 7:30pm,M,Online  Online
+268,IST718,M403,42638,3.0,Big Data Analytics,Jonathan M Fox,12:00am - 10:30pm,W,Online  Online
+269,IST718,M404,42639,3.0,Big Data Analytics,Jonathan M Fox,12:00am - 10:30pm,Tu,Online  Online
+270,IST718,M405,42640,3.0,Big Data Analytics,Jillian K Lando,12:00am - 7:30pm,M,Online  Online
+271,IST719,M001,37470,3.0,Information Visualization,Jeff Hemsley,9:30am - 12:15pm,Tu,Hinds Hall 010
+272,IST719,M002,37471,3.0,Information Visualization,Jeff Hemsley,9:30am - 12:15pm,W,Hinds Hall 010
+273,IST719,M400,42641,3.0,Information Visualization,Gary E Krudys,12:00am - 8:30pm,Tu,Online  Online
+274,IST719,M401,42884,3.0,Information Visualization,Gary E Krudys,12:00am - 8:30pm,Tu,Online  Online
+275,IST722,M002,37568,3.0,Data Warehouse,P Douglas Taber,5:00pm - 7:50pm,Th,Hinds Hall 011
+276,IST722,M401,37683,3.0,Data Warehouse,hhkhan,12:00am - 7:30pm,Su,Online  Online
+277,IST722,M402,42642,3.0,Data Warehouse,hhkhan,12:00am - 7:30pm,Su,Online  Online
+278,IST722,M400,42778,3.0,Data Warehouse,hhkhan,12:00am - 10:30pm,Th,Online  Online
+279,IST724,M001,42384,3.0,Database Security,Joseph Vincent Treglia,9:30am - 12:15pm,W,Hinds Hall 013
+280,IST736,M400,42386,3.0,Text Mining,Bei Yu,12:00am - 8:30pm,Su,Online  Online
+281,IST736,M401,42742,3.0,Text Mining,ProfGates,12:00am - 9:30pm,W,Online  Online
+282,IST736,M402,42755,3.0,Text Mining,,12:00am - 9:30pm,Th,Online  Online
+283,IST736,M403,42756,3.0,Text Mining,ProfGates,12:00am - 9:30pm,W,Online  Online
+284,IST754,M001,42342,3.0,Capstone Project in EDS,Mark Andrew Borte,5:15pm - 8:05pm,W,Hinds Hall 121
+285,IST755,M002,37466,3.0,Strategic Mgmt/Info Resources,Frank Jr Marullo,5:00pm - 7:45pm,Th,FALK ROOM 175
+286,IST755,M400,42461,3.0,Strategic Mgmt/Info Resources,Scott A Bernard,12:00am - 8:30pm,Tu,Online  Online
+287,IST755,M401,42475,3.0,Strategic Mgmt/Info Resources,Raed M. Sharif,12:00am - 8:30pm,Th,Online  Online
+288,IST755,M402,42643,3.0,Strategic Mgmt/Info Resources,Scott A Bernard,12:00am - 8:30pm,Tu,Online  Online
+289,IST769,M400,42626,3.0,Advanced Database Management,Michael Fudge,12:00am - 10:30pm,W,Online  Online
+290,IST769,M401,42764,3.0,Advanced Database Management,Dr. Gregory Block,12:00am - 5:30pm,Su,Online  Online
+291,IST777,M400,42627,3.0,Statistical Methods in IST,Jeffrey M. Stanton,12:00am - 7:30pm,M,Online  Online
+292,IST800,M001,37515,3.0,Design Meth. for Info Studies,Rachel Ivy Clarke,9:30am - 12:15pm,W,Hinds Hall 120
+293,IST810,M001,37389,2.0,Practicum in Research,Steven B Sawyer,9:30am - 11:25am,Tu,Hinds Hall 120
+294,IST810,M002,37509,2.0,Practicum in Research,Steven B Sawyer,9:30am - 11:25am,Tu,Hinds Hall 120
+295,IST820,M001,41535,3.0,Seminar in Research Methods,Jeffrey M. Stanton,9:30am - 12:15pm,,Hinds Hall 120
+296,IST840,M001,37391,1.0,Practicum in Teaching,Steven B Sawyer,11:30am - 12:15pm,Tu,Hinds Hall 120
+297,IST840,M002,37508,1.0,Practicum in Teaching,Steven B Sawyer,11:30am - 12:15pm,Tu,Hinds Hall 120
+298,IST971,M400,42678,1.0,Internship in Info Studies,Susan Monica Bonzi,12:00am - 12:00am,,Online
+299,IST971,M401,42680,1.0,Internship in Info Studies,Susan Monica Bonzi,12:00am - 12:00am,,Online
+300,IST971,M402,42770,1.0,Internship in Info Studies,Susan Monica Bonzi,12:00am - 12:00am,,
+301,IST972,M001,37396,3.0,School Media Practicum,Patricia C Vilello,12:00am - 12:00am,,Online
+302,IST972,M400,42662,1.0,School Media Practicum,Patricia C Vilello,12:00am - 12:00am,,Online
+303,IST972,M401,42745,3.0,School Media Practicum,Patricia C Vilello,12:00am - 12:00am,,Online
+304,IST973,M800,42478,1.0,Internship in Info Studies,,12:00am - 12:00am,,
+305,IST973,M401,42673,1.0,Internship in Info Studies,,12:00am - 12:00am,,Online
+306,IST973,M402,42875,1.0,Internship in Info Studies,,12:00am - 12:00am,,Online
+307,IST999,M001,37387,1.0,Dissertation,,12:00am - 12:00am,,
