@@ -1,0 +1,72 @@
+It’s been a month since I came to the land of opportunities: the United States. It has been a fabulous journey so far and I’m loving it.
+
+Back home in India, I had two choices: either take a job at Dassault Systems as an R&D Associate Development Engineer or get my Masters in Applied Data Science at the Syracuse University School of Information Studies. As you can guess from the title from the blog, you know which choice I made.
+
+Why I Chose the iSchool
+U.S. News ranks the School of Information Studies at Syracuse University 2nd in the United States for information programs. It was a tough time preparing for arrival in the US but I enjoyed every moment of it.
+
+I landed in the United States this past August at Hancock International Airport, Syracuse, NY. The weather is unpredictable here, but comparatively cooler.
+
+The states hasn’t disappointed me so far. It’s a different culture overall, with more friendly and outgoing people but I miss my family, my friends, and holidays. Syracuse University has huge campus spanning over 700 acres in an urban setting with state of the art infrastructure and facilities.
+
+So I’ll get to the point: How did I bag a Research Assistantship from first semester itself? Did I say ‘Assistantship’? Sorry, I meant ‘Assistantships’. Let me take you through the entire process.
+
+When did I reach out to the faculty?
+I was told by many people that you don’t usually get assistantships in the first semester, but it was worth a try.
+
+I started by going through the faculty research profiles on the iSchool website. Every university has faculty pages where you can find the research a professor is currently working on.
+
+I shortlisted five professors who had an intersection with my research interests. I sent the emails regarding my interest in their work by the end of May.
+
+What did I write in those emails?
+Professors get a lot of emails regarding the work at their lab. There should be a hook in your emails which can get the professor’s attention. Here are some helpful tips on how to keep your reader engaged:
+
+First: A Relevant Subject Line
+People used to write a variety of subject lines like ‘Prospective Research Assistant — Fall 2018’, ‘RA/GA/TA at your Lab.’ But does it contain anything that is of interest to the professor? Nope.
+
+Why should the professor open your email? Professors are already receiving a lot of similar emails. That’s why the first hook is the subject line.
+
+What worked for me is this: Do proper homework on your professor’s research and find an intersection of your research interest. Then, you can put the subject line simply as ‘[research interest] — Work at your Lab’. It may seem simple, but it worked for me!
+
+Second: Start with Why You Chose Their Work
+This is where most of the students make a mistake by introducing themselves and putting all the “blah blah blah” about themselves.
+
+If the professor opens your email, there is little chance that they will read your second paragraph if you waste the opportunity in the first paragraph by boasting about yourself.
+
+The opening paragraph should use the homework that you did on the professor. Talk about their projects, papers, and interests. It should not be more than 3–4 lines. That’s where you subtly connect the reason why you found the research interesting.
+
+Third: Introduce Yourself
+Now, the professor knows that you are worth his or her time, as you have researched about his or her interests and work. Now you both have a mutual connection of interests. The professor more likely to go through the second paragraph where you introduce yourself briefly and describe your relevant work.
+
+It’s completely up to you if you want a lengthy second paragraph. Make sure everything is relevant to the type of work you want to do.
+
+Finally: Conclusion and Attachments
+You think you are all set now? Nope! Do write the concluding paragraph and be straightforward with asking what you want.
+
+You can politely ask ‘I was wondering if there is an open position at your lab for contributing to your research’?
+
+End that paragraph with noting all the attachments you have put on the email for the professor’s reference. What attachments am I talking about? You should at least attach your resume, but you can add more, such as internship letters, papers (even unpublished, as it is an example of your academic writing sample), and project reports.
+
+What To Do After Reaching Out
+After 15 days, you can always put up a reminder if you don’t receive any responses. Just a simple follow up is fine.
+
+Let’s come back to my story … where was I? Right, I was telling you that I sent emails to 5 professors by the end of May. 4 days later, I got the first reply from a professor that fits my background very well.
+
+They asked me to read about a few technologies before I come to Syracuse. Then after sending the follow-up emails, I got two more replies. One of which said that they would like to meet me for an interview when I arrive.
+
+Arrival to Syracuse University
+I reached Syracuse in early August and then emailed the professors about my arrival. The interviews were scheduled in the third week of August.
+
+In the meantime, I came to know that there’s a portal of the department where they post all the Faculty Research Assistant openings. I found a position that suited me and I applied to it. Within the day, I got an interview for the listed position and the interview was the next day.
+
+Interview Advice
+For interviews, make sure you know everything you have written on your resume and be ready for deep conceptual questions. I was grilled in the first interview and asked questions on optimizing pattern matching algorithms, calculus, and math.
+
+Don’t hesitate to say ‘You don’t know’. Never try to fool the professor, as they are the experts on the type of technology being used.
+
+Eventually, I was done with all the three interviews with different professors. Fortunately, all of them made me an offer to work as a Faculty Research Assistant at their respective labs. My project on Fake News Detection and internship at Indian Institute for Human Settlements played a vital role in acing the interviews. 
+
+Where I am Now
+I ended up deciding to work with Prof. Jennifer Stromer-Galley on the Illuminating project to develop machine learning algorithms and natural language processing techniques to track about 1100 candidates for the federal elections of 2018 on Facebook and Twitter.
+
+This project is supported by the Knight Foundation, the Tow Center for Digital Journalism at Columbia University, the Center for Computational and Data Sciences and the BITS Lab at the School of Information Studies at Syracuse University. 
